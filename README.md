@@ -19,8 +19,13 @@ Deployment: The final model is deployed as a web application, allowing users to 
 
 # Technologies Used
 Python: For data analysis, preprocessing, and model building.
+
 Pandas and NumPy: For data manipulation and numerical operations.
+
 Matplotlib and Seaborn: For data visualization.
+
 Scikit-learn: For implementing machine learning algorithms.
+
 Flask: For building the web application.
+
 Jupyter Notebook: For interactive data analysis and model development.
